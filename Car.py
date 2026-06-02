@@ -1,10 +1,5 @@
 class Car:
 
-            make = None
-            model = None
-            year = None
-            color = None
-
             # constructer
 
             def __init__(self,make,model,year,color):
